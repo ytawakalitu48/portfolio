@@ -28,7 +28,7 @@ const Design = () => {
     },
   ];
   return (
-    <section className="w-full">
+    <section className="w-full py-20">
       <div className=" flex flex-col  px-80">
         <p className="ring-1 px-2  ring-black w-fit flex  rounded-full">
           <GoDotFill className="text-green-300 text-2xl" /> WHY CHOOSE ME

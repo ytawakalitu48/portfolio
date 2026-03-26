@@ -6,6 +6,9 @@ import Reason from './page/Reason'
 import Design from './page/Design'
 import Process from './component/Process'
 import Offer from './component/Offer'
+import Discovery from './page/Discovery'
+import Rate from './component/Rate'
+import Raters from './component/Raters'
 
 function App() {
 
@@ -18,6 +21,9 @@ function App() {
     <Design/>
     <Process/>
     <Offer/>
+    <Discovery/>
+    <Rate/>
+    <Raters/>
     
     </div>
     
