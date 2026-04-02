@@ -26,7 +26,7 @@ const Raters = () => {
 ]
 
   return (
-    <section className="bg-blue-400">
+    <section className="bg-black">
       
        {data.map ((Love,index) => (
 
