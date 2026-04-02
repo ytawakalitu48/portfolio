@@ -10,22 +10,14 @@ import Discovery from './page/Discovery'
 import Rate from './component/Rate'
 import Raters from './component/Raters'
 import Suggest from './component/Suggest'
+import Home from './component/Home'
 
 function App() {
 
 
   return (
     <div>
-<Navbar/>
-    <Herosection/>
-    <Reason/>
-    <Design/>
-    <Process/>
-    <Offer/>
-    <Discovery/>
-    <Rate/>
-    <Raters/>
-    <Suggest/>
+      <Home/>
     
     </div>
     
